@@ -1,5 +1,8 @@
 {
     "name": "thevenrex/mail-tm",
+    "description": "MailTm PHP SDK",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Thevenrex\\MailTm\\": "src/"
