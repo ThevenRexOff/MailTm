@@ -1,0 +1,15 @@
+{
+    "name": "thevenrex/mail-tm",
+    "autoload": {
+        "psr-4": {
+            "Thevenrex\\MailTm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThevenRexOff",
+            "email": "thevenrexoficial@oulook.es"
+        }
+    ],
+    "require": {}
+}
