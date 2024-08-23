@@ -28,7 +28,7 @@ echo "Done\n";
 echo "Get token\n";
 echo "Data: $email, $password\n";
 
-$token = $mailtm->getTokenAuthorization($email, $password)->getResult(decode: true)['token'] . "\n";
+$token = $mailtm->getTokenAuthorization("karryscarlet@rowdydow.com", "5XzB4w)EXB")->getResult(decode: true)['token'] . "\n";
 
 echo "Done\n";
 
